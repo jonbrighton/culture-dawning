@@ -71,8 +71,8 @@ img {
   z-index: 1;
   opacity: 0.1;
   margin-left: 50%;
-
-  height: 200px;
+  
+  max-height: 200px;
 }
 img:hover {
   transition: .2s;
